@@ -12,6 +12,7 @@ Perfiles de GitHub de alumnos de **Desarrollo de Aplicaciones Multiplataforma** 
 * [López Ramos, Rodrigo](https://github.com/rodrigolopezramoss)
 * [López Sanchez, Javier](https://github.com/javier-l0pez)
 * [Martínez Alaminos, Diego](https://github.com/diegomartinezalaminos)
+* [Mancera Taboada, Juan Pedro].(https://github.com/juan2pedro)
 * [Molina Blanes, Pablo Luis](https://github.com/pabloluismolinablanes)
 * [Pacheco Torrecilla, Ismael](https://github.com/ismaelpacheco13)
 * [Pavon Lopez, Juan](https://github.com/JuanPavon)
